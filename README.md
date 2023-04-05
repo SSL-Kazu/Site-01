@@ -1,3 +1,3 @@
 # Code-Playground
 
-:warning: Strictly no [COPYING] of codes. -_-
+:warning: Fork? Nah.
